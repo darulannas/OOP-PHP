@@ -81,7 +81,7 @@ abstract class Produk {
     
 }
 
-            //inheritance
+            //inheritance   //implements dari interface
 class Komik extends Produk implements InfoProduk {
     public $jmlHalaman;
 
